@@ -1,0 +1,3 @@
+example.com/path - ID001
+example.com/path_a - ID001_a
+example.com/path_b - ID001_b
